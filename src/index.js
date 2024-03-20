@@ -8,7 +8,6 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
-    <script src="https://api-maps.yandex.ru/v3/?apikey=c265821f-6725-461a-a56c-84c43b415a60&lang=ru_RU"></script>
   </React.StrictMode>
 );
 
